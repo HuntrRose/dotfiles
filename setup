@@ -1,0 +1,23 @@
+#!/bin/bash
+
+
+# Description:
+# Saving and restoring dotfiles from my setups.
+
+#Global variables
+
+#Functions
+#create dotfiles directory
+
+
+#move and link dotfiles
+#report all linked files
+
+
+#Save: Copy dotfiles dircetory to script/repo directory
+#      Push to github
+
+#restore: copy from repo to dotfiles incase of missing or corrupt files
+
+
+#main: control behavior 
